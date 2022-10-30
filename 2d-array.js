@@ -62,6 +62,7 @@ function readLine() {
  *
  * The function is expected to return an INTEGER.
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
+ * Name_of_the arrays[row_index][column_index];
  */
 
 function hourglassSum(arr) {
